@@ -17,7 +17,7 @@ from fastapi.responses import FileResponse\
 import uvicorn\
 import threading\
 \
-API_TOKEN = '7838973738:AAHTZc9NJd1delkQwiW8VvPz-33pDpNN1Qc'\
+API_TOKEN = 7838973738:AAHTZc9NJd1delkQwiW8VvPz-33pDpNN1Qc\
 DB_NAME = 'shifts.db'\
 \
 bot = Bot(token=API_TOKEN)\
